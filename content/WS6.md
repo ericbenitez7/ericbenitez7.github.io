@@ -11,3 +11,12 @@ En aquest cas, s'havia de descarregar un codi que ja ens era donat i enganxar la
 
 
 
+En quant a la cinquena activitat, calia obrir un notebook de Google colab on s'havien d'executar tots els passos basats en entrenar una IA des de zero per a que pogués identificar frases positives i negatives.
+Un cop seguit el procediment, l'últim pas era crear cinc frases originals que no fossin les utilitzades per a entrenar la IA per a veure si les classificava bé, i després identificar on s'havia equivocat o dubtat la IA mitjançant l'score, que calculava el percentatge de probabilitat d'encert.
+
+A la sisena activitat s'havia d'obrir un desplegament a Isard, on vam descarregar una eina d'execució de models locals i li vam fer tres preguntes de prova, anotant el temps de resposta i la qualitat de resposta per a més tard comparar-la amb les respostes d'un model al núvol com podria ser ChatGPT.
+
+Per a la sèptima activitat, s'havia de llegir la pàgina oficial de la Comissió Europea sobre el marc regulador de la IA, i crear amb una IA generativa una infografía o presentació conformada per quatre punts clau de la pàgina ja esmentada.
+En el nostre cas vam fer una infografia només amb la IA del canva.
+
+Per últim, vam acabar amb una conclusió grupal, en la que delarem el nostre descontent amb l'ús de la IA pel risc que comporta, però alhora reconeixem la seva eficàcia i l'ajuda que suposa sempre que se'n faci ús responsable.
