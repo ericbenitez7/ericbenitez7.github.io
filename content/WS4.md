@@ -6,7 +6,11 @@ En aquesta activitat vam tenir que crear-nos una compta d'AlwaysData, la qual va
 
 per la BBDD "hr", on consultem per tot el que hi ha a la taula "regions",
 
+![consulta1](consulta1.png)
+
 per la BBDD "training", on consultem per tot el que hi ha a la taula "productos",
+
+![training](consulta2.png)
 
 per la BBDD "hr", on consultem els noms de tots els països de la taula "countries".
 
