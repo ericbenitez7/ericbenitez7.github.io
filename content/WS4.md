@@ -10,9 +10,11 @@ per la BBDD "hr", on consultem per tot el que hi ha a la taula "regions",
 
 per la BBDD "training", on consultem per tot el que hi ha a la taula "productos",
 
-![training](consulta2.png)
+![training](conuslta2.png)
 
 per la BBDD "hr", on consultem els noms de tots els països de la taula "countries".
+
+![training](consulta3.png)
 
 Despres vam crear un nou usuari al qual li vam donar permisos nomes per la BBDD de "training", amb aquest usuari vam comprobar que funciones tant els permisos que li haviem proporcionat d'acces, edició, i consultes.
 
