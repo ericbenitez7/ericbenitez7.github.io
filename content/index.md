@@ -1,2 +1,8 @@
-# Base de dades
-A base de dades hem apres com crear i gestionar bases de dades en les quals realitzar consultes de SQL basiques en exmples com aquests: 
+# Sistemes Operatius
+A sistemes operatius, hem apres diverses coses dels sistemes operatius, en aquest cas Linux i les seves distribucions.
+
+A la part 1, hem apres tot el relacionat amb la terminal de comandes, vam començar per coses simples com la creació i eliminació de carpetes i arxius amb les comandes, mkdir, rm, cp, cd, nano, cat, etc... Fins a coses mes complexes com veure els processos que esta realitzant l'ordinador i quant afecten a la CPU, i altres components de l'ordinador.
+
+A la part 2, vam estar practicant la virtualització en local amb VirtualBox, vam tindre que descarregar l'ISO d'una distribució de linux, la qual vam insertar a virtualbox i posteriorment configurar com la voliem, ja que teniem que decidir quins recursos li assignariem a la maquina vitrual, sempre pensant que em de escollir valors per sota dels del ordinador amb que executem la maquina virtual, en aquesta mateixa maquina vam probar si tenia connexió amb la comanda "ping" i confirmant que responia correctament.
+
+Finalment a la part 3, vam fer el mateix de iniciar una maquina virtual, pero en aquest cas ho vam fer amb Isard, que es una plataforma de virtualització en remot, ho sigui que ja no era el nostre ordinador el que executava la maquina virtual si no un altre desde un lloc remot. Per fer aixo vam tenir que iniciar sessió a Isard i vam buscar una plantilla de maquina virtual, a la qual li vam posar un nom i la vam crear, en aquest cas va ser molt mes senzill ja que la maquina ja venia preconfigurada i nomes vam tenir que encendre-la i accedir-hi, ja a dins vam fer la mateixa prova del "ping" i vam donar per concluida la tasca.
