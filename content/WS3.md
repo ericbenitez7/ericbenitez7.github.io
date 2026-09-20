@@ -8,4 +8,4 @@ La segona practica vam tenir que realitzar un programa que demanes a l'usuari el
 
 A la tercera practica vam tenir que agafar tot el que haviem apres abans, i vam afegir els "if" per fer una calculadora que preguntes per pantalla dos nombres i un simbol d'entre suma, resta, multiplicació, i divisió i que llavors amb aquasta informació esculli la operació correcta i doni el que se li ha demanat per pantalla.
 
-Amb aquest Workshop em pogut entendre una mica de com es la programació i com es fan els programes.
+Amb aquest Workshop em pogut entendre una mica de com funcionen les variables i els seus diferents tipus, els condicionals i la seva forma fe funcionar, i les formes d'introduir i expulsar dades mitjançant la consola.
