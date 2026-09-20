@@ -9,4 +9,5 @@ A la primera activitat s'havia d'anar a la web [Tiktokenizer](https://tiktokeniz
 Per a la tercera activitat, s'havia de crear una skill amb aquesta guía: (a) Nom, (b) Quan s'ha d'utilitzar, (c) Instruccions pas a pas dels criteris a revisar, (d) Format de sortida fix, (e) Límits. La skill serveix coma instrucció per a que la IA retorni un molt millor resultat al prompt que se li indica.
 En aquest cas, s'havia de descarregar un codi que ja ens era donat i enganxar la skill com a instrucció inicial junt amb el codi, demanant-li que el revisi, i més tard fer el mateix però sense la skill, per a comparar resultats.
 
-En quant a la quarta activitat 
+
+
