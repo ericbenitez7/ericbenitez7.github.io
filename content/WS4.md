@@ -16,11 +16,11 @@ per la BBDD "hr", on consultem els noms de tots els països de la taula "countri
 
 ![training](consulta3.png)
 
-Després vam crear un nou usuari al qual li vam donar permisos nomes per la BBDD de "training", amb aquest usuari vam comprobar que funciones tant els permisos que li haviem proporcionat d'acces, edició, i consultes.
+Després vam crear un nou usuari al qual li vam donar permisos només per a la BBDD de "training". Amb aquest usuari, vam comprobar que funcionéssin els permisos que li haviem proporcionat d'accés, edició i consultes.
 
-Una vegada fetes totes aquestes proves amb AlwaysData, vam desplegar el DataGrip, amb el qual vam establir una connexió a la base de dades de "hr", amb el primer usuari que vam crear, i despres una altre connexió a la base de dades de "training" amb l'ultim usuari creat. Amb aquesta eina vam tornar a provar a fer consultes basiques per veure si funcionaba. 
+Una vegada fetes totes aquestes proves amb AlwaysData vam desplegar el DataGrip, amb el qual vam establir una connexió a la base de dades d'"hr" amb el primer usuari creat, i després una altra connexió a la base de dades de "training" amb l'últim usuari creat. Amb aquesta eina vam tornar a provar a fer consultes bàsiques per veure si funcionaba. 
 
-Finalment amb una eina que ens proporcionaba el DataGrip vam crear els diagrames Entitat-Relació de les dues bases de dades:
+Finalment, amb una eina que ens proporcionava el DataGrip, vam crear els diagrames Entitat-Relació de les dues bases de dades:
 
 Training:
 
