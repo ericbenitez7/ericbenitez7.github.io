@@ -18,4 +18,8 @@ Finalment amb una eina que ens proporcionaba el DataGrip vam crear els diagrames
 
 Training:
 
+![training](training.png)
+
 HR:
+
+![hr](hr.png)
