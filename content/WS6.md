@@ -4,7 +4,8 @@ Per a aquest WorkShop, vam explorar el que poden oferir les intel·ligències ar
 
 A la primera activitat s'havia d'anar a la web [Tiktokenizer](https://tiktokenizer.vercel.app/) per a veure quina diferència en la quantitat de tokens hi ha a l'hora de fer prompts a diferents intel·ligències artificials, i en diferents llengües.
 
-
+En la segona activitat, ens posaven en la situació on estem a una empresa i el nostre team mànager ens demana implementar un formulari web que demani les dades de contacte i que validi si s'han omplert els camps i mostri un missatge a la pantalla dient que s'ha enviat correctament.
+Per a aquesta tasca calia demanar-li crear això a una IA generativa i que generés la tasca seguint el vibe coding i el framework RASCEF.
 
 Per a la tercera activitat, s'havia de crear una skill amb aquesta guía: (a) Nom, (b) Quan s'ha d'utilitzar, (c) Instruccions pas a pas dels criteris a revisar, (d) Format de sortida fix, (e) Límits. La skill serveix coma instrucció per a que la IA retorni un molt millor resultat al prompt que se li indica.
 En aquest cas, s'havia de descarregar un codi que ja ens era donat i enganxar la skill com a instrucció inicial junt amb el codi, demanant-li que el revisi, i més tard fer el mateix però sense la skill, per a comparar resultats.
