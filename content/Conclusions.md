@@ -6,5 +6,5 @@ Amb el primer WorkShop hem aprés sobre sistemes operatius, entenent els avantat
 
 Al segon WorkShop hem entés la importància d'una bona organització, i la millora que suposa respecte el passat tenir un lloc com GitHub on poder actualitzar versions sense perdre el que s'ha fet prèviament.
 
-Al tercer Workshop
+Al tercer Workshop hem aprés a programar, el més necessari ja que és imprescindible per a seguir aprenent a aquest curs tant en aquest àmbit com a altres.
 
