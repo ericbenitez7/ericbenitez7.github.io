@@ -10,7 +10,7 @@ Per a aquesta tasca calia demanar-li crear això a una IA generativa i que gener
 Per a la tercera activitat, s'havia de crear una skill amb aquesta guía: (a) Nom, (b) Quan s'ha d'utilitzar, (c) Instruccions pas a pas dels criteris a revisar, (d) Format de sortida fix, (e) Límits. La skill serveix coma instrucció per a que la IA retorni un molt millor resultat al prompt que se li indica.
 En aquest cas, s'havia de descarregar un codi que ja ens era donat i enganxar la skill com a instrucció inicial junt amb el codi, demanant-li que el revisi, i més tard fer el mateix però sense la skill, per a comparar resultats.
 
-
+A la quarta activitat vam tindre que crear una IA personalitzada, en aquest cas s'ens demanaba utilitzar n8n, durant el proces vam anar juntant diferents nodes per les parts del chatbot com podrien ser un node per a quan fa preguntes, un per a donar resposta, o un per a l'agent d'IA que utilitzariem, pero l'important era un que ho juntaba tot i ho procesaba segons un script d'ordres que li haviem proporcionat previament.
 
 En quant a la cinquena activitat, calia obrir un notebook de Google colab on s'havien d'executar tots els passos basats en entrenar una IA des de zero per a que pogués identificar frases positives i negatives.
 Un cop seguit el procediment, l'últim pas era crear cinc frases originals que no fossin les utilitzades per a entrenar la IA per a veure si les classificava bé, i després identificar on s'havia equivocat o dubtat la IA mitjançant l'score, que calculava el percentatge de probabilitat d'encert.
