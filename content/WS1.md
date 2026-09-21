@@ -1,8 +1,0 @@
-# Sistemes Operatius
-A aquest WorkShop, hem aprés diverses coses dels sistemes operatius, en aquest cas Linux i les seves distribucions.
-
-A la part 1, hem aprés tot el relacionat amb la terminal de comandes. Vam començar per coses simples com la creació i eliminació de carpetes i arxius amb les comandes mkdir, rm, cp, cd, nano, cat, etc... Fins a coses més complexes com veure els processos que està realitzant l'ordinador i quant afecten la CPU i altres components de l'ordinador.
-
-A la part 2, vam estar practicant la virtualització en local amb VirtualBox. Vam tenir que descarregar l'ISO d'una distribució de linux, la qual vam insertar a virtualbox i posteriorment configurar com la voliem, ja que teniem que decidir quins recursos li assignariem a la màquina vitrual, sempre pensant que hem de escollir valors per sota dels de l'ordinador amb que executem la màquina virtual. En aquesta mateixa màquina vam provar si tenia connexió amb la comanda "ping", i confirmant que responia correctament.
-
-Finalment a la part 3, vam fer el mateix de iniciar una màquina virtual, però en aquest cas ho vam fer amb Isard, que es una plataforma de virtualització en remot, o sigui que ja no era el nostre ordinador el que executava la màquina virtual sinó un altre desde un lloc remot. Per a fer això vam tenir que iniciar sessió a Isard i buscar una plantilla de màquina virtual, a la qual li vam posar un nom per crear-la. En aquest cas va ser molt més senzill ja que la màquina ja venia preconfigurada i només vam haver d'encendre-la i accedir-hi. Ja a dins vam fer la mateixa prova del "ping" i vam donar per concluida la tasca.
