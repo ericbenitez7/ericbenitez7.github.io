@@ -8,3 +8,5 @@ Al segon WorkShop hem entés la importància d'una bona organització, i la mill
 
 Al tercer Workshop hem aprés a programar, el més necessari ja que és imprescindible per a seguir aprenent a aquest curs tant en aquest àmbit com a altres.
 
+En el quart WorkShop s'aprèn a fer bases de dades, que son la manera més útil d'organitzar i analitzar dades.
+
