@@ -10,3 +10,8 @@ Al tercer Workshop hem aprés a programar, el més necessari ja que és impresci
 
 En el quart WorkShop s'aprèn a fer bases de dades, que son la manera més útil d'organitzar i analitzar dades.
 
+Amb el cinquè WorkShop hem observat la importància del disseny a les pàgines web i com afecta al consumidor, per exemple en termes d'accessibilitat, si un invident necessita anar a una pàgina web, que pugui processar la informació.
+
+Al sisè WorkShop s'observen els avantatges de la IA, i com es pot fer servir de manera responsable i eficient amb els nostres coneixements de programació.
+
+Per últim, al setè WorkShop 
